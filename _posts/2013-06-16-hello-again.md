@@ -12,3 +12,7 @@ Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed cons
 This is a test.
 
 This is another test.
+
+![pig-full-body.jpg.adapt.945.1.jpg]({{site.baseurl}}/media/pig-full-body.jpg.adapt.945.1.jpg)
+
+
