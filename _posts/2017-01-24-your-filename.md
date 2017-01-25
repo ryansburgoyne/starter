@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: false
-title: ''
+title: Newest Post!
 ---
 ## This is a new post!
 
