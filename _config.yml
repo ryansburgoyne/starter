@@ -3,8 +3,8 @@ permalink: pretty
 markdown: kramdown
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'http://ryansburgoyne.github.io/starter/'
+  relativeLinks: 'http://ryansburgoyne.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
     _posts:
